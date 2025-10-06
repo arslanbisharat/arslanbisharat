@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/arslanbisharat/static/css/main.e290c5ef.css",
+    "main.css": "/arslanbisharat/static/css/main.4babe2d5.css",
     "main.js": "/arslanbisharat/static/js/main.1a14ec4c.js",
     "static/js/453.a5ec92a5.chunk.js": "/arslanbisharat/static/js/453.a5ec92a5.chunk.js",
     "static/media/bootstrap-icons.woff?": "/arslanbisharat/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/arslanbisharat/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/arslanbisharat/index.html",
-    "main.e290c5ef.css.map": "/arslanbisharat/static/css/main.e290c5ef.css.map",
+    "main.4babe2d5.css.map": "/arslanbisharat/static/css/main.4babe2d5.css.map",
     "main.1a14ec4c.js.map": "/arslanbisharat/static/js/main.1a14ec4c.js.map",
     "453.a5ec92a5.chunk.js.map": "/arslanbisharat/static/js/453.a5ec92a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e290c5ef.css",
+    "static/css/main.4babe2d5.css",
     "static/js/main.1a14ec4c.js"
   ]
 }
