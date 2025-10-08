@@ -11,59 +11,10 @@ const News = () => {
   const newsData = [
     {
       id: 1,
-      month: 'December',
-      year: 2024,
-      title: 'Paper Accepted at ICML 2024',
-      description: 'Our paper on "Advanced Machine Learning Approaches for Cyberbullying Detection" has been accepted at the International Conference on Machine Learning (ICML) 2024.'
-    },
-    {
-      id: 2,
-      month: 'November',
-      year: 2024,
-      title: 'Joined AISecure Lab',
-      description: 'Started working as a Graduate Research Assistant at the AISecure Lab, focusing on AI safety and security research.'
-    },
-    {
-      id: 3,
-      month: 'October',
-      year: 2024,
-      title: 'New Collaboration with Ji Lab',
-      description: 'Excited to announce a new research collaboration with Ji Lab on multi-modal deep learning for clinical data integration.'
-    },
-    {
-      id: 4,
-      month: 'September',
-      year: 2024,
-      title: 'Workshop Presentation at CVPR',
-      description: 'Presented our work on visual sentiment analysis at the CVPR Workshop on Affective Computing.'
-    },
-    {
-      id: 5,
-      month: 'August',
-      year: 2024,
-      title: 'Research Featured in IEEE',
-      description: 'Our IIoT malware detection research was featured in IEEE Transactions on Cybersecurity with over 40 citations.'
-    },
-    {
-      id: 6,
-      month: 'July',
-      year: 2024,
-      title: 'Guest Lecture at Loyola',
-      description: 'Delivered a guest lecture on "Federated Learning in Healthcare" to graduate students at Loyola University Chicago.'
-    },
-    {
-      id: 7,
-      month: 'June',
-      year: 2024,
-      title: 'Awarded Best Student Paper',
-      description: 'Received the Best Student Paper Award at the AI Security Conference for our work on adversarial robustness.'
-    },
-    {
-      id: 8,
       month: 'May',
-      year: 2024,
-      title: 'New Research Grant',
-      description: 'Successfully secured funding for a new research project on federated learning in healthcare applications.'
+      year: 2025,
+      title: 'Started PhD in Computer Science',
+      description: 'Excited to begin my PhD journey in Computer Science at Loyola University Chicago under the guidance of Dr. Mohammed Abuhamad and Dr. Yasin Silva.'
     }
   ];
 

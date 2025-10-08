@@ -13,51 +13,43 @@ const Awards = () => {
   const awards = [
     {
       id: 1,
-      title: 'Best Paper Award',
-      organization: 'ICML',
+      title: 'Student Travel Award',
+      organization: "SBP-BRIMS'24",
       year: 2024,
-      type: 'research',
-      description: 'Received the Best Paper Award for outstanding research contribution in machine learning for cyberbullying detection.'
+      type: 'academic',
+      description: 'Awarded student travel grant to attend and present research at the 17th International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation.'
     },
     {
       id: 2,
-      title: 'Graduate Research Fellowship',
+      title: 'Merit Award',
       organization: 'Loyola University Chicago',
-      year: 2024,
-      type: 'fellowship',
-      description: 'Awarded a competitive fellowship for exceptional research potential in computer science and AI.'
+      year: 2023,
+      type: 'academic',
+      description: 'Awarded merit scholarship for academic excellence in the Master of Science in Data Science program (2023-2025).'
     },
     {
       id: 3,
-      title: 'Outstanding Reviewer Award',
-      organization: 'NeurIPS',
-      year: 2024,
+      title: 'Magna Cum Laude',
+      organization: 'University Of the People',
+      year: 2023,
       type: 'academic',
-      description: 'Recognized for exceptional quality and timeliness in peer review contributions to the AI research community.'
+      description: 'Graduated with Magna Cum Laude honors from the Bachelor of Science in Computer Science program.'
     },
     {
       id: 4,
-      title: 'First Place - Hackathon',
-      organization: 'AI for Good',
+      title: "Dean's List All Semesters",
+      organization: 'University Of the People',
       year: 2023,
-      type: 'competition',
-      description: 'Led a team to develop an AI-powered solution for detecting online harassment, winning first place among 50 teams.'
+      type: 'academic',
+      description: "Achieved Dean's List recognition for all semesters throughout the Bachelor of Science in Computer Science program."
     },
     {
       id: 5,
-      title: "Dean's List",
-      organization: 'Loyola University Chicago',
+      title: 'Fully-Funded Scholarship',
+      organization: 'University Of the People',
       year: 2023,
-      type: 'academic',
-      description: "Recognized for academic excellence with consistent placement on the Dean's List throughout graduate studies."
-    },
-    {
-      id: 6,
-      title: 'Research Excellence Award',
-      organization: 'Computer Science Department',
-      year: 2023,
-      type: 'research',
-      description: 'Honored for outstanding research contributions and publications in the field of AI and data science.'
+      type: 'fellowship',
+      description: 'Received full scholarship for all semesters during the Bachelor of Science in Computer Science program.'
     }
   ];
 

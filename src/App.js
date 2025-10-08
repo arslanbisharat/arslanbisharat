@@ -277,17 +277,20 @@ function App() {
             Feel free to reach out through LinkedIn, GitHub, or email.
           </p>
 
-          <div className="contact-map-container">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.2756447891867!2d-87.66126492346508!3d41.92839896550194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2e88c4e8917%3A0x4e7d7d3b1e3e0e0e!2sDoyle%20Hall%2C%20Loyola%20University%20Chicago!5e0!3m2!1sen!2sus!4v1709000000000!5m2!1sen!2sus"
-              width="100%"
-              height="400"
-              style={{ border: 0, borderRadius: 'var(--radius-md)' }}
-              allowFullScreen=""
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              title="Loyola University Chicago - Doyle Hall Location"
-            ></iframe>
+          <div className="contact-info-grid">
+            <div className="contact-info-item">
+              <div className="contact-info-icon">
+                <i className="bi bi-geo-alt-fill"></i>
+              </div>
+              <div>
+                <div className="contact-info-label">Office Address</div>
+                <div className="contact-info-value">
+                  Doyle Hall Room 206, Data Lab<br />
+                  1052 W Loyola Ave<br />
+                  Chicago, IL 60626
+                </div>
+              </div>
+            </div>
           </div>
 
           <div className="contact-links">
